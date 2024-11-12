@@ -1,12 +1,12 @@
 baseurl: https://example.com/
 languageCode: en-us
 theme: hugo-theme-stack
-title: Example Site
+title: Roxlong blog
 copyright: Example Person
 
 # Theme i18n support
 # Available values: ar, bn, ca, de, el, en, es, fr, hu, id, it, ja, ko, nl, pt-br, th, uk, zh-cn, zh-hk, zh-tw
-DefaultContentLanguage: en
+DefaultContentLanguage: zh-cn
 
 # Set hasCJKLanguage to true if DefaultContentLanguage is in [zh-cn ja ko]
 # This will make .Summary and .WordCount behave correctly for CJK languages.
@@ -22,11 +22,11 @@ languages:
                 subtitle: Example description
     zh-cn:
         languageName: 中文
-        title: 演示站点
+        title: roxlong's blog
         weight: 2
         params:
             sidebar:
-                subtitle: 演示说明
+                subtitle: C++、无线通信、Linux
     ar:
         languageName: عربي
         languagedirection: rtl
