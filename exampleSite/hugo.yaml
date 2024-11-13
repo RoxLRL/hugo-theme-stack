@@ -19,7 +19,7 @@ languages:
         weight: 1
         params:
             sidebar:
-                subtitle: C++、Linux、CIT、3GPP、UAV
+                subtitle: C++、Linux、ICT
     zh-cn:
         languageName: 中文
         title: Roxlong's blog

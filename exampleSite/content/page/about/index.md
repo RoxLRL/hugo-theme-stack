@@ -1,13 +1,13 @@
 ---
-title: About
-description: Hugo, the world's fastest framework for building websites
+title: 个人介绍
+description: 这是我的个人介绍
 date: '2019-02-28'
 aliases:
   - about-us
   - about-hugo
   - contact
 license: CC BY-NC-ND
-lastmod: '2020-10-09'
+lastmod: '2023-11-13'
 menu:
     main: 
         weight: -90
@@ -15,20 +15,31 @@ menu:
             icon: user
 ---
 
-Written in Go, Hugo is an open source static site generator available under the [Apache License 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+# 个人介绍
 
-Hugo makes use of a variety of open source projects including:
+## 基本信息
 
-* https://github.com/yuin/goldmark
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
+- **姓名**：[roxlong]
+- **年龄**：[26]
+- **职业**：[C++协议栈开发]
+- **联系方式**：
+  - 邮箱：[roxlong@foxmail.com]
 
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
+## 个人陈述
 
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
+[业余爱好徒步、爬山、足球、K歌，热爱研究各类ICT技术，欢迎交流]
 
-Websites built with Hugo are extremely fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
+## 教育背景
 
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+- **[硕士研究生]**：[重庆邮电大学]，[电子信息类]
+- **[大学本科]**：[重庆邮电大学]，[电子信息类]
+
+
+## 技能特长
+
+1. 网络通信技术（C/C++、Socket网络编程）
+2. 数据结构与算法
+3. 无线通信协议（LTE、5G NR）
+4. 计算机视觉（pytorch、python、图像识别）
+5. 无线通信算法
+6. C++软件开发、服务器开发
